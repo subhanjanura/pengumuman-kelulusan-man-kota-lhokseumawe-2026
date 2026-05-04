@@ -1,0 +1,5 @@
+[
+    { "nisn": "10012025", "nama": "Ahmad Zaki", "jurusan": "IPA", "status": "LULUS" },
+    { "nisn": "10012026", "nama": "Siti Rahma", "jurusan": "IPS", "status": "LULUS" },
+    { "nisn": "10012027", "nama": "Budi Pratama", "jurusan": "Keagamaan", "status": "BELUM LULUS" }
+]
