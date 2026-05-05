@@ -83,7 +83,7 @@ let dataKelulusan = [];
                         badgeIcon.className = "fa-solid fa-circle-check me-1";
                         
                         pesanKelulusan.className = "mt-4 p-3 rounded-3 fs-8 d-block bg-success bg-opacity-25 text-success border border-success";
-                        pesanKelulusan.textContent = "Selamat kepada peserta didik yang dinyatakan lulus. Harap mengunduh Surat Keterangan Lulus (SKL) resmi melalui tata usaha madrasah.";
+                        pesanKelulusan.textContent = "Selamat kepada peserta didik yang dinyatakan lulus. Pengambilan Surat Keterangan Lulus (SKL) resmi dimulai dari tanggal 06 Mei 2026 melalui bagian Tata Usaha (TU) Madrasah.";
                     } else {
                         hasilDiv.className = "p-4 rounded-4 shadow-sm text-center border border-danger bg-danger bg-opacity-10 mb-4";
                         iconStatus.className = "mx-auto w-16 h-16 d-flex align-items-center justify-content-center rounded-circle bg-danger fs-4 shadow-sm text-white";
