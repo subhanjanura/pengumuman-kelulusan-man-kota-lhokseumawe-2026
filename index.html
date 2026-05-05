@@ -7,23 +7,38 @@
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8f9fa;
+        }
+
+        .fs-7 { font-size: 0.85rem; }
+        .fs-8 { font-size: 0.75rem; }
+        
+        .w-16 {
+            width: 4rem !important;
+            height: 4rem !important;
+        }
+
+        #hasil {
+            transition: all 0.4s ease-in-out;
+        }
+    </style>
 </head>
-<body class="min-vh-100 d-flex flex-column justify-content-between">
+<body class="min-vh-100 d-flex flex-column justify-content-between bg-light">
 
     <header class="bg-white border-bottom shadow-sm sticky-top">
         <div class="container py-3 d-flex align-items-center justify-content-between" style="max-width: 700px;">
             <div class="d-flex align-items-center gap-3">
-                <img src="man-kota-lhokseumawe/logo.png" alt="Logo MAN" class="object-fit-contain" style="width: 48px; height: 48px;" onerror="this.src='https://placehold.co/100?text=MAN';">
+                <img src="/logo.png" alt="Logo MAN" class="object-fit-contain" style="width: 48px; height: 48px;" onerror="this.src='https://placehold.co/100?text=MAN';">
                 <div>
-                    <h5 class="m-0 fw-bold text-dark fs-6">MAN Kota Lhokseumawe</h5>
-                    <p class="m-0 text-secondary fs-7"><small>Kementerian Agama Republik Indonesia</small></p>
+                    <h5 class="m-0 fw-bold text-dark fs-6">MAN KOTA LHOKSEUMAWE</h5>
+                    <p class="m-0 text-secondary fs-7"><small>Madrasah Unggulan Riset Inovasi Digital</small></p>
                 </div>
-            </div>
-            <div class="d-none d-md-block">
-                <span class="badge bg-success bg-opacity-10 text-success px-3 py-2 rounded-pill fw-bold fs-7">
-                    <i class="fa-solid fa-circle-check me-1"></i> Resmi & Terpercaya
-                </span>
             </div>
         </div>
     </header>
@@ -35,7 +50,7 @@
             </span>
             <h2 class="fw-bold text-dark mb-2">Pengumuman Kelulusan</h2>
             <p class="text-secondary fs-7">
-                Masukkan NISN atau NIS/NISM untuk melihat status kelulusan peserta didik kelas XII secara transparan.
+                Masukkan NISN atau NIS/NISM untuk melihat status kelulusan peserta didik kelas XII.
             </p>
         </div>
 
@@ -49,7 +64,7 @@
                     <input type="text" id="nisnInput" class="form-control bg-light border-start-0 text-center fw-bold" placeholder="Contoh: 0081234567" style="letter-spacing: 2px;">
                 </div>
             </div>
-            <button onclick="cekKelulusan()" class="btn btn-success btn-lg w-100 py-3 rounded-3 shadow-sm d-flex align-items-center justify-content-center gap-2 text-white">
+            <button onclick="cekKelulusзна()" class="btn btn-success btn-lg w-100 py-3 rounded-3 shadow-sm d-flex align-items-center justify-content-center gap-2 text-white" id="submitBtn">
                 <span id="searchIcon"><i class="fa-solid fa-magnifying-glass"></i></span>
                 <span id="searchText" class="fw-bold fs-6">Periksa Status Kelulusan</span>
                 
@@ -61,13 +76,17 @@
         </div>
 
         <div id="hasil" class="d-none p-4 rounded-4 text-center shadow-sm border bg-white">
-            <div id="iconStatus" class="mx-auto w-16 h-16 d-flex align-items-center justify-content-center rounded-circle mb-3 fs-4 shadow-sm text-white"></div>
-            <span class="text-uppercase text-secondary fw-bold fs-8">Status Kelulusan</span>
-            <div class="my-3">
-                <span id="badgeStatus" class="badge px-4 py-2 fs-5 fw-bolder shadow-sm">
-                    <span id="statusKelulusan"></span>
+            <div class="d-flex justify-content-center mb-3">
+                <div id="iconStatus" class="w-16 h-16 d-flex align-items-center justify-content-center rounded-circle fs-4 shadow-sm text-white"></div>
+            </div>
+            
+            <span class="text-uppercase text-secondary fw-bold fs-8 d-block mb-2">Status Kelulusan</span>
+            <div class="mb-4">
+                <span id="badgeStatus" class="badge px-4 py-2 fs-5 fw-bolder shadow-sm d-inline-flex align-items-center">
+                    <i id="badgeIcon" class="me-2"></i><span id="statusKelulusan"></span>
                 </span>
             </div>
+            
             <div class="border-top pt-3 text-start">
                 <p id="namaSiswa" class="fw-bold fs-5 text-dark mb-1"></p>
                 <p id="infoSiswa" class="text-secondary fs-7 mb-1"></p>
@@ -78,7 +97,7 @@
     </main>
 
     <footer class="text-center py-4 text-secondary fs-8 border-top bg-white">
-        &copy; 2026 MAN Kota Lhokseumawe. All Rights Reserved.
+        &copy; 2026 IT MAN Kota Lhokseumawe. All Rights Reserved.
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
