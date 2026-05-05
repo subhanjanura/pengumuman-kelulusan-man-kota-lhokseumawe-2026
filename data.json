@@ -1,2072 +1,2072 @@
 [
- {
-  "no": 1,
-  "nism": "131111730001230013",
-  "nisn": "0089360956",
-  "nama": "ALFA AMELIA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 2,
-  "nism": "131111730001230018",
-  "nisn": "0083427650",
-  "nama": "AS SYIFA NABILA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 3,
-  "nism": "131111730001230020",
-  "nisn": "0083436009",
-  "nama": "AYLA AZZURA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 4,
-  "nism": "131111730001230026",
-  "nisn": "0081608095",
-  "nama": "CUT RAISYA RAIHANA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 5,
-  "nism": "131111730001230031",
-  "nisn": "0075697126",
-  "nama": "DINA QISWARI",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 6,
-  "nism": "131111730001230034",
-  "nisn": "0083901788",
-  "nama": "ELYSA MUHAYRA YUSDIAN",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 7,
-  "nism": "131111730001230203",
-  "nisn": "0087836179",
-  "nama": "FATHIYYAH",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 8,
-  "nism": "131111730001230068",
-  "nisn": "0082623831",
-  "nama": "KHALISHA MADINA USMAN",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 9,
-  "nism": "131111730001230070",
-  "nisn": "0089300955",
-  "nama": "MAGHFIRAH CHALID",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 10,
-  "nism": "131111730001230072",
-  "nisn": "0089351221",
-  "nama": "MAULIDINI PUTRI",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 11,
-  "nism": "131111730001230112",
-  "nisn": "0089351221",
-  "nama": "NABILA ASSYUKAILA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 12,
-  "nism": "131111730001230113",
-  "nisn": "0086011318",
-  "nama": "NADILA MAIZURA BALQIS",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 13,
-  "nism": "131111730001230115",
-  "nisn": "0087663686",
-  "nama": "NAJLA MEUTIA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 14,
-  "nism": "131111730001230116",
-  "nisn": "0078438716",
-  "nama": "NAJMA HAYAH",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 15,
-  "nism": "131111730001230126",
-  "nisn": "0084707714",
-  "nama": "NAZHIFA RAYYA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 16,
-  "nism": "131111730001230137",
-  "nisn": "0082120731",
-  "nama": "PUTRI ALAYYA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 17,
-  "nism": "131111730001230139",
-  "nisn": "0085226429",
-  "nama": "PUTRI INDAH RAHMA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 18,
-  "nism": "131111730001230140",
-  "nisn": "0083876091",
-  "nama": "PUTRI ZAKIYA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 19,
-  "nism": "131111730001230142",
-  "nisn": "0082650346",
-  "nama": "PUTRY NASYWATUL AL-JANNATI",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 20,
-  "nism": "131111730001230146",
-  "nisn": "0075890628",
-  "nama": "RAISAH AZKIYA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 21,
-  "nism": "131111730001230147",
-  "nisn": "0082053153",
-  "nama": "RAISYA MALIKA HENZU",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 22,
-  "nism": "131111730001230148",
-  "nisn": "0089159621",
-  "nama": "RAISYA MULYANI",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 23,
-  "nism": "131111730001230150",
-  "nisn": "0073438446",
-  "nama": "RAISYAH KEISYA ANJANI",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 24,
-  "nism": "131111730001230161",
-  "nisn": "0085962983",
-  "nama": "SABILA MAULIZA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 25,
-  "nism": "131111730001230168",
-  "nisn": "0088358410",
-  "nama": "SHAFIYANA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 26,
-  "nism": "131111730001230181",
-  "nisn": "0082462083",
-  "nama": "SYAKIRA PUTRI",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 27,
-  "nism": "131111730001230194",
-  "nisn": "0078029988",
-  "nama": "ZASKIA AZZAHRA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 28,
-  "nism": "131111730001230197",
-  "nisn": "0087213022",
-  "nama": "ZIYA FARISYA ASYIFA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 29,
-  "nism": "131111730001230200",
-  "nisn": "0087038668",
-  "nama": "ZUHRATUL FITRI",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 30,
-  "nism": "131111730001240247",
-  "nisn": "0085567390",
-  "nama": "ANNISA PUTRI SULFIANA",
-  "jk": "P",
-  "kelas": "XII-1",
-  "status": "LULUS"
- },
- {
-  "no": 31,
-  "nism": "131111730001230002",
-  "nisn": "0089261671",
-  "nama": "Achmad Azril Ghiffari",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 32,
-  "nism": "131111730001230004",
-  "nisn": "0088342791",
-  "nama": "Adrian Raffi Maulana",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 33,
-  "nism": "131111730001230038",
-  "nisn": "0081703746",
-  "nama": "Faiz Aulia Najasa",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 34,
-  "nism": "131111730001230043",
-  "nisn": "0086297603",
-  "nama": "Fatih Alkatiri",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 35,
-  "nism": "131111730001230051",
-  "nisn": "0088814944",
-  "nama": "Hafidhuddin AL Asyi",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 36,
-  "nism": "131111730001230079",
-  "nisn": "0084844037",
-  "nama": "Muhammad Alif Muazzin",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 37,
-  "nism": "131111730001230093",
-  "nisn": "0084627642",
-  "nama": "Muhammad Nabil",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 38,
-  "nism": "131111730001230094",
-  "nisn": "0083001022",
-  "nama": "Muhammad Nabil Adli",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 39,
-  "nism": "131111730001230099",
-  "nisn": "0072353131",
-  "nama": "Muhammad Raiyan",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 40,
-  "nism": "131111730001230100",
-  "nisn": "0072465361",
-  "nama": "Muhammad Rayyan Al Kamil",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 41,
-  "nism": "131111730001230105",
-  "nisn": "0077900934",
-  "nama": "Muhammad Rizki Ramadhan",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 42,
-  "nism": "131111730001230108",
-  "nisn": "0089763516",
-  "nama": "Muhammad Zidan Al-Farras",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 43,
-  "nism": "131111730001230182",
-  "nisn": "0088660469",
-  "nama": "Syauqi Abiyyu Gazkha",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 44,
-  "nism": "131111730001230185",
-  "nisn": "0077897258",
-  "nama": "T.Muhammad Suhail Alghifari",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 45,
-  "nism": "131111730001230187",
-  "nisn": "0086881707",
-  "nama": "Teuku khalilullah Maulana",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 46,
-  "nism": "131111730001230189",
-  "nisn": "0081304287",
-  "nama": "Wathan Wirasta Monteski",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 47,
-  "nism": "131111730001230210",
-  "nisn": "0085074894",
-  "nama": "Yaumil Alfath",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 48,
-  "nism": "131111730001230226",
-  "nisn": "0089615764",
-  "nama": "M.Raihan Maulana",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 49,
-  "nism": "131111730001230227",
-  "nisn": "0075062421",
-  "nama": "Ikhlas Bunayya",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 50,
-  "nism": "131111730001240242",
-  "nisn": "0087743884",
-  "nama": "Muhammad Nazar",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 51,
-  "nism": "131111730001240251",
-  "nisn": "0083724467",
-  "nama": "Zawil Ikram",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 52,
-  "nism": "131111730001240245",
-  "nisn": "0075088701",
-  "nama": "Muhammad Rafi Al-Mubarak",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 53,
-  "nism": "131111730001240257",
-  "nisn": "0083382992",
-  "nama": "Kasyiful Kabir",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 54,
-  "nism": "131111730001240258",
-  "nisn": "0081815403",
-  "nama": "Bintang Wahyu Permana",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 55,
-  "nism": "131111730001230225",
-  "nisn": "0071216095",
-  "nama": "Khadafi Azamir",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 56,
-  "nism": "131111730001240266",
-  "nisn": "0089221253",
-  "nama": "Ardhian Maulana",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 57,
-  "nism": "131111730001240269",
-  "nisn": 3085603798,
-  "nama": "Muhammad Khairul Anam",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 58,
-  "nism": "131111730001240270",
-  "nisn": "0085452143",
-  "nama": "Bilqis Al-Hafild",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 59,
-  "nism": "131111730001240271",
-  "nisn": "0089712472",
-  "nama": "Muhammad Qamal Phasya",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 60,
-  "nism": "131111730001240274",
-  "nisn": "0083960781",
-  "nama": "Sulthan Agung Pratama",
-  "jk": "L",
-  "kelas": "XII-2",
-  "status": "LULUS"
- },
- {
-  "no": 61,
-  "nism": "131111730001230011",
-  "nisn": "0086719306",
-  "nama": "Al Fataras",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 62,
-  "nism": "131111730001230012",
-  "nisn": "0072758491",
-  "nama": "Aldatul Zikra",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 63,
-  "nism": "131111730001230025",
-  "nisn": "0081368415",
-  "nama": "Cut Raihanda",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 64,
-  "nism": "131111730001230049",
-  "nisn": "0085521851",
-  "nama": "Fuza Alfatunnisa",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 65,
-  "nism": "131111730001230064",
-  "nisn": "0088720124",
-  "nama": "Kaisya Dzakira",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 66,
-  "nism": "131111730001230073",
-  "nisn": "0087103263",
-  "nama": "Maulindah Putri Ayu",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 67,
-  "nism": "131111730001230074",
-  "nisn": "0086469912",
-  "nama": "Mela Syahira",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 68,
-  "nism": "131111730001230076",
-  "nisn": "0083711349",
-  "nama": "Miftahul Jannah",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 69,
-  "nism": "131111730001230110",
-  "nisn": "0085414261",
-  "nama": "Mutiara Safira",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 70,
-  "nism": "131111730001230114",
-  "nisn": "0085766457",
-  "nama": "Najla Mazaya",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 71,
-  "nism": "131111730001230123",
-  "nisn": "0086233761",
-  "nama": "Nasyira Adzkiya",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 72,
-  "nism": "131111730001230125",
-  "nisn": "0086328959",
-  "nama": "Nayla Syakira",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 73,
-  "nism": "131111730001230127",
-  "nisn": "0087791268",
-  "nama": "Nisa Isma Ramadhani",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 74,
-  "nism": "131111730001230129",
-  "nisn": "0085358706",
-  "nama": "Nurul Alya Alfasya",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 75,
-  "nism": "131111730001230136",
-  "nisn": "0082634374",
-  "nama": "Pocut Masna Amartana",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 76,
-  "nism": "131111730001230138",
-  "nisn": "0081862451",
-  "nama": "Putri Balqis Al Khansa",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 77,
-  "nism": "131111730001230144",
-  "nisn": "0085406464",
-  "nama": "Rahil Maghfirah",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 78,
-  "nism": "131111730001230156",
-  "nisn": "0085039476",
-  "nama": "Rihadatul Aisy",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 79,
-  "nism": "131111730001230157",
-  "nisn": "0088321637",
-  "nama": "Rizka Aliya Nadila",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 80,
-  "nism": "131111730001230158",
-  "nisn": "0075657658",
-  "nama": "Rizka Ulfa",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 81,
-  "nism": "131111730001230159",
-  "nisn": "0074767235",
-  "nama": "Rizkia Amanda",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 82,
-  "nism": "131111730001230162",
-  "nisn": "0073741472",
-  "nama": "Saila Rizkia",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 83,
-  "nism": "131111730001230169",
-  "nisn": "0089256671",
-  "nama": "Shanika Zahia Rayya",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 84,
-  "nism": "131111730001230237",
-  "nisn": "0070030003",
-  "nama": "Siti Najwa Chalila",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 85,
-  "nism": "131111730001230184",
-  "nisn": "0085221697",
-  "nama": "Syifa AL Maghfirah",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 86,
-  "nism": "131111730001230199",
-  "nisn": "0088449639",
-  "nama": "Zuhara Syakira",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 87,
-  "nism": "131111730001240248",
-  "nisn": "0087989815",
-  "nama": "Faiza Riana",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 88,
-  "nism": "131111730001240261",
-  "nisn": 2086476411,
-  "nama": "Cut Annisa Urwatul",
-  "jk": "P",
-  "kelas": "XII-3",
-  "status": "LULUS"
- },
- {
-  "no": 89,
-  "nism": "131111730001230007",
-  "nisn": "0089770892",
-  "nama": "Afifa Syahira",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 90,
-  "nism": "131111730001230015",
-  "nisn": "0085434656",
-  "nama": "Aliva Nazhira",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 91,
-  "nism": "131111730001230027",
-  "nisn": "0086377030",
-  "nama": "Cut Syifa Unnisa",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 92,
-  "nism": "131111730001230217",
-  "nisn": "0084038446",
-  "nama": "Cut Ulvia Nabila",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 93,
-  "nism": "131111730001230035",
-  "nisn": 3089023906,
-  "nama": "Fahiya Tsabita Aqila",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 94,
-  "nism": "131111730001230046",
-  "nisn": "0086770914",
-  "nama": "Fiha Ainun Zariyah",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 95,
-  "nism": "131111730001230054",
-  "nisn": "0081472965",
-  "nama": "Haura Aqil Mahira",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 96,
-  "nism": "131111730001230055",
-  "nisn": "0087824589",
-  "nama": "Haura Shabrina",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 97,
-  "nism": "131111730001230058",
-  "nisn": "0087293504",
-  "nama": "Intan Febriani",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 98,
-  "nism": "131111730001230059",
-  "nisn": "0088341735",
-  "nama": "Intan Naysila",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 99,
-  "nism": "131111730001230069",
-  "nisn": "0075699288",
-  "nama": "Luthviya",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 100,
-  "nism": "131111730001230205",
-  "nisn": "0079577068",
-  "nama": "Marisa Oktavia Marpaung",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 101,
-  "nism": "131111730001230208",
-  "nisn": "0081113566",
-  "nama": "Nada Aurellya",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 102,
-  "nism": "131111730001230117",
-  "nisn": "0083165106",
-  "nama": "Najwa Karami",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 103,
-  "nism": "131111730001230132",
-  "nisn": "0089194628",
-  "nama": "Nurul Rahmah Fariza",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 104,
-  "nism": "131111730001230134",
-  "nisn": "0083622952",
-  "nama": "Octavia Fitriani",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 105,
-  "nism": "131111730001230141",
-  "nisn": 3082310730,
-  "nama": "Putroe Nazira",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 106,
-  "nism": "131111730001230145",
-  "nisn": "0078818362",
-  "nama": "Raisa Syakira Putri",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 107,
-  "nism": "131111730001230175",
-  "nisn": "0086346449",
-  "nama": "Sity Maimunah",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 108,
-  "nism": "131111730001230176",
-  "nisn": "0083600978",
-  "nama": "Suci Ramadhani",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 109,
-  "nism": "131111730001230180",
-  "nisn": "0088756623",
-  "nama": "Syakira Alisya Balqis",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 110,
-  "nism": "131111730001230237",
-  "nisn": "0078626832",
-  "nama": "Vaisa Faradhiba Wijaya",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 111,
-  "nism": "131111730001230193",
-  "nisn": "0081135248",
-  "nama": "Zafirah Amalia",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 112,
-  "nism": "131111730001240241",
-  "nisn": "0081688463",
-  "nama": "Zafira Azkia",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 113,
-  "nism": "131111730001240244",
-  "nisn": "0082932977",
-  "nama": "Khairatun Hisan",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 114,
-  "nism": "131111730001240246",
-  "nisn": "0087680721",
-  "nama": "Saskya Humaira",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 115,
-  "nism": "131111730001240252",
-  "nisn": "0073129940",
-  "nama": "Cut Fairuzia Putri Bahri",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 116,
-  "nism": "131111730001240253",
-  "nisn": "0081766330",
-  "nama": "Aulia Dahely",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 117,
-  "nism": "131111730001240263",
-  "nisn": "0082140472",
-  "nama": "Nurul Syifa Azzahra",
-  "jk": "P",
-  "kelas": "XII-4",
-  "status": "LULUS"
- },
- {
-  "no": 118,
-  "nism": "131111730001230202",
-  "nisn": "0082340177",
-  "nama": "Alfi Rahmatin",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 119,
-  "nism": "131111730001230024",
-  "nisn": "0087732626",
-  "nama": "Cut Izzia",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 120,
-  "nism": "131111730001230028",
-  "nisn": "0082258745",
-  "nama": "Cut Zita Azzahra",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 121,
-  "nism": "131111730001230030",
-  "nisn": "0089643692",
-  "nama": "Dina Mastura",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 122,
-  "nism": "131111730001230033",
-  "nisn": "0085014631",
-  "nama": "Dinda Malika Ramadhani",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 123,
-  "nism": "131111730001230042",
-  "nisn": "0086908184",
-  "nama": "Fathya Noura",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 124,
-  "nism": "131111730001230044",
-  "nisn": "0081026295",
-  "nama": "Fatimah Azzahra Hasra",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 125,
-  "nism": "131111730001230057",
-  "nisn": 3084586837,
-  "nama": "Ika Ramadani",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 126,
-  "nism": "131111730001230061",
-  "nisn": "0081050568",
-  "nama": "Izza Muzaiyana",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 127,
-  "nism": "131111730001230066",
-  "nisn": "0079921251",
-  "nama": "Khaira Nabila",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 128,
-  "nism": "131111730001230119",
-  "nisn": "0072258707",
-  "nama": "Najwa Rasqina Hafiz",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 129,
-  "nism": "131111730001230120",
-  "nisn": "0086594763",
-  "nama": "Najwa Safhira",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 130,
-  "nism": "131111730001230121",
-  "nisn": "0085123840",
-  "nama": "Najwa Salsabila",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 131,
-  "nism": "131111730001230122",
-  "nisn": "0088419919",
-  "nama": "Nasyiatul Amalia",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 132,
-  "nism": "131111730001230230",
-  "nisn": "0087521165",
-  "nama": "Naula Syafika",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 133,
-  "nism": "131111730001230128",
-  "nisn": "0087113546",
-  "nama": "Nisaul Husna",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 134,
-  "nism": "131111730001230151",
-  "nisn": "0072536264",
-  "nama": "Rani Wijayanti",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 135,
-  "nism": "131111730001230160",
-  "nisn": "008785028",
-  "nama": "Rozatul Jannah",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 136,
-  "nism": "131111730001230228",
-  "nisn": "0084103269",
-  "nama": "Safira Azzahra",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 137,
-  "nism": "131111730001230174",
-  "nisn": "0077715167",
-  "nama": "Siti Adila Mawardah",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 138,
-  "nism": "131111730001230171",
-  "nisn": "0081620434",
-  "nama": "Siti Iklima Zuhra",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 139,
-  "nism": "131111730001230172",
-  "nisn": "0081249429",
-  "nama": "Siti Rizqina Assyifaa",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 140,
-  "nism": "131111730001230188",
-  "nisn": "0081881881",
-  "nama": "Tri Amirah Althafunnisa Azma",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 141,
-  "nism": "131111730001230191",
-  "nisn": "0083326149",
-  "nama": "Wulida Sabriya",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 142,
-  "nism": "131111730001230192",
-  "nisn": "0083800706",
-  "nama": "Yana Mahfuzah",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 143,
-  "nism": "131111730001230195",
-  "nisn": "0081976631",
-  "nama": "Zazkia Ramadhani",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 144,
-  "nism": "131111730001230201",
-  "nisn": "0073544728",
-  "nama": "Zulkhulaifa Rahmi",
-  "jk": "P",
-  "kelas": "XII-5",
-  "status": "LULUS"
- },
- {
-  "no": 145,
-  "nism": "131111730001230014",
-  "nisn": "0076215825",
-  "nama": "Alfaya Maghfirah",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 146,
-  "nism": "131111730001230019",
-  "nisn": "0089594268",
-  "nama": "As Syifatul Aulia",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 147,
-  "nism": "131111730001230022",
-  "nisn": "0086840904",
-  "nama": "Az Zuhra",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 148,
-  "nism": "131111730001230029",
-  "nisn": "0089605020",
-  "nama": "Dara Nazila",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 149,
-  "nism": "131111730001230032",
-  "nisn": "0072859516",
-  "nama": "Dina Rahmiati",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 150,
-  "nism": "131111730001230041",
-  "nisn": "0085128583",
-  "nama": "Farah Nadya",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 151,
-  "nism": "131111730001230052",
-  "nisn": "0071632261",
-  "nama": "Haiyul Zahra",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 152,
-  "nism": "131111730001230056",
-  "nisn": "0081968868",
-  "nama": "Iffatul Imanika",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 153,
-  "nism": "131111730001230062",
-  "nisn": "0084996711",
-  "nama": "Izzati Ulya",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 154,
-  "nism": "131111730001230063",
-  "nisn": "0088621979",
-  "nama": "Jauza Aysyura",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 155,
-  "nism": "131111730001230065",
-  "nisn": "0088764213",
-  "nama": "Kaysha Assyifa Harahap",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 156,
-  "nism": "131111730001230071",
-  "nisn": "0079267622",
-  "nama": "Masyitah",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 157,
-  "nism": "131111730001230075",
-  "nisn": "0088356908",
-  "nama": "Meutia Hayatun Nufus",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 158,
-  "nism": "131111730001230118",
-  "nisn": 3093260250,
-  "nama": "Najwa Nasyifa",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 159,
-  "nism": "131111730001230124",
-  "nisn": "0078089308",
-  "nama": "Naura Addini",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 160,
-  "nism": "131111730001230131",
-  "nisn": "0086483346",
-  "nama": "Nurul Putroe Al Ghina",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 161,
-  "nism": "131111730001230143",
-  "nisn": "0081338436",
-  "nama": "Rafiqa Zulfira",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 162,
-  "nism": "131111730001230149",
-  "nisn": "0086576100",
-  "nama": "Raisya Putri",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 163,
-  "nism": "131111730001230173",
-  "nisn": "0075478614",
-  "nama": "Siti Sahara",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 164,
-  "nism": "131111730001230183",
-  "nisn": "0076462590",
-  "nama": "Syawaliza Ananda",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 165,
-  "nism": "131111730001230186",
-  "nisn": "0089131366",
-  "nama": "Tazkia Amalia",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 166,
-  "nism": "131111730001230196",
-  "nisn": "0074442761",
-  "nama": "Zihni Ghaisani",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 167,
-  "nism": "131111730001240243",
-  "nisn": "0087636408",
-  "nama": "Sayla Khairani",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 168,
-  "nism": "131111730001240249",
-  "nisn": "0085528434",
-  "nama": "Atha Nadhirah Kaysan",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 169,
-  "nism": "131111730001240254",
-  "nisn": "0073654515",
-  "nama": "Anisah Fatiyyah",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 170,
-  "nism": "131111730001240265",
-  "nisn": "0085805060",
-  "nama": "Farah Maulina",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 171,
-  "nism": "131111730001240267",
-  "nisn": 3085811560,
-  "nama": "Geubi Aulia Meutia",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 172,
-  "nism": "131111730001240268",
-  "nisn": "0089713378",
-  "nama": "Nurul Akmal",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 173,
-  "nism": "131111730001240275",
-  "nisn": "0085586814",
-  "nama": "Meutya Zahara",
-  "jk": "P",
-  "kelas": "XII-6",
-  "status": "LULUS"
- },
- {
-  "no": 174,
-  "nism": "131111730001230001",
-  "nisn": "0087605839",
-  "nama": "Abdul Haris Aulia Nasution",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 175,
-  "nism": "131111730001230003",
-  "nisn": "0086630699",
-  "nama": "Achmad Chairi Muharram",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 176,
-  "nism": "131111730001230006",
-  "nisn": "0072254636",
-  "nama": "Afdhalul Zikral",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 177,
-  "nism": "131111730001230008",
-  "nisn": "0083175347",
-  "nama": "Agra Prana Nuhri",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 178,
-  "nism": "131111730001230009",
-  "nisn": "0079895116",
-  "nama": "Ahmad Fadhallah Hairi",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 179,
-  "nism": "131111730001230023",
-  "nisn": "0087162558",
-  "nama": "Bakil Tsaqif",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 180,
-  "nism": "131111730001230229",
-  "nisn": "0084465729",
-  "nama": "Dzaki Nail Huda",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 181,
-  "nism": "131111730001230045",
-  "nisn": "0086436903",
-  "nama": "Fayyad Ghafiqi",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 182,
-  "nism": "131111730001230048",
-  "nisn": "0084943018",
-  "nama": "Frihandy Syahputra",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 183,
-  "nism": "131111730001230053",
-  "nisn": "0081458432",
-  "nama": "Haris Maulana",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 184,
-  "nism": "131111730001230077",
-  "nisn": "0086481269",
-  "nama": "Muhammad Akbar",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 185,
-  "nism": "131111730001230078",
-  "nisn": "0084335982",
-  "nama": "Muhammad Al Farel",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 186,
-  "nism": "131111730001230080",
-  "nisn": "3160963174",
-  "nama": "Muhammad Daffa",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 187,
-  "nism": "131111730001230082",
-  "nisn": "0083345391",
-  "nama": "Muhammad Fahri Maulana",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 188,
-  "nism": "131111730001230083",
-  "nisn": "0078299372",
-  "nama": "Muhammad Fahriel Mufal",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 189,
-  "nism": "131111730001230081",
-  "nisn": "0089515225",
-  "nama": "Muhammad Fathan Ramadhan",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 190,
-  "nism": "131111730001230084",
-  "nisn": "0083975261",
-  "nama": "Muhammad Gathan Thufail",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 191,
-  "nism": "131111730001230089",
-  "nisn": "0081096876",
-  "nama": "Muhammad Ilal hauzi",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 192,
-  "nism": "131111730001230095",
-  "nisn": "0085578288",
-  "nama": "Muhammad Nabil Hidayat",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 193,
-  "nism": "131111730001230096",
-  "nisn": "0072419276",
-  "nama": "Muhammad Pobie",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 194,
-  "nism": "131111730001230098",
-  "nisn": "0064601152",
-  "nama": "Muhammad Rafli Kausar",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 195,
-  "nism": "131111730001230101",
-  "nisn": "0087950441",
-  "nama": "Muhammad Rayyan Imanda",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 196,
-  "nism": "131111730001230104",
-  "nisn": "0077794307",
-  "nama": "Muhammad Ridha Fahleviezar",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 197,
-  "nism": "131111730001230204",
-  "nisn": "0077254066",
-  "nama": "Muhammad Syawalul Hady",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 198,
-  "nism": "131111730001230135",
-  "nisn": "0084925871",
-  "nama": "Panca Nur Pratama",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 199,
-  "nism": "131111730001230152",
-  "nisn": "0089952446",
-  "nama": "Rehan Maulana",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 200,
-  "nism": "131111730001230163",
-  "nisn": "0082032220",
-  "nama": "Sarul Raffy",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 201,
-  "nism": "131111730001230164",
-  "nisn": "0085656905",
-  "nama": "Sarul Rizqy",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 202,
-  "nism": "131111730001230165",
-  "nisn": "0073080940",
-  "nama": "Sayed Aqil Ali",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 203,
-  "nism": "131111730001230166",
-  "nisn": "0088591789",
-  "nama": "Sayed Sultan Al-Maghri",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 204,
-  "nism": "131111730001230167",
-  "nisn": "0077292441",
-  "nama": "Shadiqul Fata",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 205,
-  "nism": "131111730001230177",
-  "nisn": "0082696432",
-  "nama": "Sulthan Azis Zaffari",
-  "jk": "L",
-  "kelas": "XII-7",
-  "status": "LULUS"
- },
- {
-  "no": 206,
-  "nism": "131111730001230005",
-  "nisn": 3081760945,
-  "nama": "Afdhaludz Dzikri",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 207,
-  "nism": "131111730001230231",
-  "nisn": "0083629071",
-  "nama": "Amru Mufid",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 208,
-  "nism": "131111730001230016",
-  "nisn": "0084974180",
-  "nama": "Anas Irvan Samudra",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 209,
-  "nism": "131111730001230036",
-  "nisn": "0081403685",
-  "nama": "Fais Ramadhan",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 210,
-  "nism": "131111730001230039",
-  "nisn": "0085575888",
-  "nama": "Fajriel Al-Huda",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 211,
-  "nism": "131111730001230060",
-  "nisn": "0081594618",
-  "nama": "Istiqlal Ahmad",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 212,
-  "nism": "131111730001230085",
-  "nisn": "0087383795",
-  "nama": "Muhammad Gelegar Frianto",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 213,
-  "nism": "131111730001230086",
-  "nisn": "0082185714",
-  "nama": "Muhammad Gevan Alfatan",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 214,
-  "nism": "131111730001230087",
-  "nisn": "0079819299",
-  "nama": "Muhammad Ikbal",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 215,
-  "nism": "131111730001230088",
-  "nisn": "0088211215",
-  "nama": "Muhammad Ikhsan",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 216,
-  "nism": "131111730001230090",
-  "nisn": "0083210809",
-  "nama": "Muhammad Irsal Hadi",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 217,
-  "nism": "131111730001230211",
-  "nisn": "0078041260",
-  "nama": "Muhammad Kaisar",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 218,
-  "nism": "131111730001230092",
-  "nisn": "0084304938",
-  "nama": "Muhammad Luthfi",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 219,
-  "nism": "131111730001230102",
-  "nisn": "0077327255",
-  "nama": "Muhammad Rendi Andrizal",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 220,
-  "nism": "131111730001230206",
-  "nisn": "0087914354",
-  "nama": "Muhammad Rizky",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 221,
-  "nism": "131111730001230106",
-  "nisn": "0084327459",
-  "nama": "Muhammad Roja Firdaus",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 222,
-  "nism": "131111730001230107",
-  "nisn": "0085815868",
-  "nama": "Muhammad Suhairi",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 223,
-  "nism": "131111730001230207",
-  "nisn": "0081519317",
-  "nama": "Muhammad Syawal",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 224,
-  "nism": "131111730001230109",
-  "nisn": "0083130229",
-  "nama": "Muksalmina",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 225,
-  "nism": "131111730001230153",
-  "nisn": "0082787296",
-  "nama": "Ridho Aulia",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 226,
-  "nism": "131111730001230155",
-  "nisn": "0082248104",
-  "nama": "Riffi Syahrial Pratama",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 227,
-  "nism": "131111730001230178",
-  "nisn": "0071920204",
-  "nama": "Syah Fahlevi",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 228,
-  "nism": "131111730001230209",
-  "nisn": "0077108771",
-  "nama": "Teuku Muhammad Waly Saidy",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 229,
-  "nism": "131111730001230198",
-  "nisn": "0089563020",
-  "nama": "Zubaral Hadid",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- },
- {
-  "no": 230,
-  "nism": "131111730001240277",
-  "nisn": "0079176977",
-  "nama": "Sayed Ardillah",
-  "jk": "L",
-  "kelas": "XII-8",
-  "status": "LULUS"
- }
+    {
+    "no": 1,
+    "nism": "131111730001230013",
+    "nisn": "0089360956",
+    "nama": "ALFA AMELIA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 2,
+    "nism": "131111730001230018",
+    "nisn": "0083427650",
+    "nama": "AS SYIFA NABILA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 3,
+    "nism": "131111730001230020",
+    "nisn": "0083436009",
+    "nama": "AYLA AZZURA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 4,
+    "nism": "131111730001230026",
+    "nisn": "0081608095",
+    "nama": "CUT RAISYA RAIHANA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 5,
+    "nism": "131111730001230031",
+    "nisn": "0075697126",
+    "nama": "DINA QISWARI",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 6,
+    "nism": "131111730001230034",
+    "nisn": "0083901788",
+    "nama": "ELYSA MUHAYRA YUSDIAN",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 7,
+    "nism": "131111730001230203",
+    "nisn": "0087836179",
+    "nama": "FATHIYYAH",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 8,
+    "nism": "131111730001230068",
+    "nisn": "0082623831",
+    "nama": "KHALISHA MADINA USMAN",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 9,
+    "nism": "131111730001230070",
+    "nisn": "0089300955",
+    "nama": "MAGHFIRAH CHALID",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 10,
+    "nism": "131111730001230072",
+    "nisn": "0089351221",
+    "nama": "MAULIDINI PUTRI",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 11,
+    "nism": "131111730001230112",
+    "nisn": "0089351221",
+    "nama": "NABILA ASSYUKAILA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 12,
+    "nism": "131111730001230113",
+    "nisn": "0086011318",
+    "nama": "NADILA MAIZURA BALQIS",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 13,
+    "nism": "131111730001230115",
+    "nisn": "0087663686",
+    "nama": "NAJLA MEUTIA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 14,
+    "nism": "131111730001230116",
+    "nisn": "0078438716",
+    "nama": "NAJMA HAYAH",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 15,
+    "nism": "131111730001230126",
+    "nisn": "0084707714",
+    "nama": "NAZHIFA RAYYA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 16,
+    "nism": "131111730001230137",
+    "nisn": "0082120731",
+    "nama": "PUTRI ALAYYA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 17,
+    "nism": "131111730001230139",
+    "nisn": "0085226429",
+    "nama": "PUTRI INDAH RAHMA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 18,
+    "nism": "131111730001230140",
+    "nisn": "0083876091",
+    "nama": "PUTRI ZAKIYA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 19,
+    "nism": "131111730001230142",
+    "nisn": "0082650346",
+    "nama": "PUTRY NASYWATUL AL-JANNATI",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 20,
+    "nism": "131111730001230146",
+    "nisn": "0075890628",
+    "nama": "RAISAH AZKIYA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 21,
+    "nism": "131111730001230147",
+    "nisn": "0082053153",
+    "nama": "RAISYA MALIKA HENZU",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 22,
+    "nism": "131111730001230148",
+    "nisn": "0089159621",
+    "nama": "RAISYA MULYANI",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 23,
+    "nism": "131111730001230150",
+    "nisn": "0073438446",
+    "nama": "RAISYAH KEISYA ANJANI",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 24,
+    "nism": "131111730001230161",
+    "nisn": "0085962983",
+    "nama": "SABILA MAULIZA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 25,
+    "nism": "131111730001230168",
+    "nisn": "0088358410",
+    "nama": "SHAFIYANA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 26,
+    "nism": "131111730001230181",
+    "nisn": "0082462083",
+    "nama": "SYAKIRA PUTRI",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 27,
+    "nism": "131111730001230194",
+    "nisn": "0078029988",
+    "nama": "ZASKIA AZZAHRA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 28,
+    "nism": "131111730001230197",
+    "nisn": "0087213022",
+    "nama": "ZIYA FARISYA ASYIFA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 29,
+    "nism": "131111730001230200",
+    "nisn": "0087038668",
+    "nama": "ZUHRATUL FITRI",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 30,
+    "nism": "131111730001240247",
+    "nisn": "0085567390",
+    "nama": "ANNISA PUTRI SULFIANA",
+    "jk": "P",
+    "kelas": "XII-1",
+    "status": "LULUS"
+    },
+    {
+    "no": 31,
+    "nism": "131111730001230002",
+    "nisn": "0089261671",
+    "nama": "Achmad Azril Ghiffari",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 32,
+    "nism": "131111730001230004",
+    "nisn": "0088342791",
+    "nama": "Adrian Raffi Maulana",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 33,
+    "nism": "131111730001230038",
+    "nisn": "0081703746",
+    "nama": "Faiz Aulia Najasa",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 34,
+    "nism": "131111730001230043",
+    "nisn": "0086297603",
+    "nama": "Fatih Alkatiri",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 35,
+    "nism": "131111730001230051",
+    "nisn": "0088814944",
+    "nama": "Hafidhuddin AL Asyi",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 36,
+    "nism": "131111730001230079",
+    "nisn": "0084844037",
+    "nama": "Muhammad Alif Muazzin",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 37,
+    "nism": "131111730001230093",
+    "nisn": "0084627642",
+    "nama": "Muhammad Nabil",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 38,
+    "nism": "131111730001230094",
+    "nisn": "0083001022",
+    "nama": "Muhammad Nabil Adli",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 39,
+    "nism": "131111730001230099",
+    "nisn": "0072353131",
+    "nama": "Muhammad Raiyan",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 40,
+    "nism": "131111730001230100",
+    "nisn": "0072465361",
+    "nama": "Muhammad Rayyan Al Kamil",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 41,
+    "nism": "131111730001230105",
+    "nisn": "0077900934",
+    "nama": "Muhammad Rizki Ramadhan",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 42,
+    "nism": "131111730001230108",
+    "nisn": "0089763516",
+    "nama": "Muhammad Zidan Al-Farras",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 43,
+    "nism": "131111730001230182",
+    "nisn": "0088660469",
+    "nama": "Syauqi Abiyyu Gazkha",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 44,
+    "nism": "131111730001230185",
+    "nisn": "0077897258",
+    "nama": "T.Muhammad Suhail Alghifari",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 45,
+    "nism": "131111730001230187",
+    "nisn": "0086881707",
+    "nama": "Teuku khalilullah Maulana",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 46,
+    "nism": "131111730001230189",
+    "nisn": "0081304287",
+    "nama": "Wathan Wirasta Monteski",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 47,
+    "nism": "131111730001230210",
+    "nisn": "0085074894",
+    "nama": "Yaumil Alfath",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 48,
+    "nism": "131111730001230226",
+    "nisn": "0089615764",
+    "nama": "M.Raihan Maulana",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 49,
+    "nism": "131111730001230227",
+    "nisn": "0075062421",
+    "nama": "Ikhlas Bunayya",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 50,
+    "nism": "131111730001240242",
+    "nisn": "0087743884",
+    "nama": "Muhammad Nazar",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 51,
+    "nism": "131111730001240251",
+    "nisn": "0083724467",
+    "nama": "Zawil Ikram",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 52,
+    "nism": "131111730001240245",
+    "nisn": "0075088701",
+    "nama": "Muhammad Rafi Al-Mubarak",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 53,
+    "nism": "131111730001240257",
+    "nisn": "0083382992",
+    "nama": "Kasyiful Kabir",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 54,
+    "nism": "131111730001240258",
+    "nisn": "0081815403",
+    "nama": "Bintang Wahyu Permana",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 55,
+    "nism": "131111730001230225",
+    "nisn": "0071216095",
+    "nama": "Khadafi Azamir",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 56,
+    "nism": "131111730001240266",
+    "nisn": "0089221253",
+    "nama": "Ardhian Maulana",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 57,
+    "nism": "131111730001240269",
+    "nisn": 3085603798,
+    "nama": "Muhammad Khairul Anam",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 58,
+    "nism": "131111730001240270",
+    "nisn": "0085452143",
+    "nama": "Bilqis Al-Hafild",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 59,
+    "nism": "131111730001240271",
+    "nisn": "0089712472",
+    "nama": "Muhammad Qamal Phasya",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 60,
+    "nism": "131111730001240274",
+    "nisn": "0083960781",
+    "nama": "Sulthan Agung Pratama",
+    "jk": "L",
+    "kelas": "XII-2",
+    "status": "LULUS"
+    },
+    {
+    "no": 61,
+    "nism": "131111730001230011",
+    "nisn": "0086719306",
+    "nama": "Al Fataras",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 62,
+    "nism": "131111730001230012",
+    "nisn": "0072758491",
+    "nama": "Aldatul Zikra",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 63,
+    "nism": "131111730001230025",
+    "nisn": "0081368415",
+    "nama": "Cut Raihanda",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 64,
+    "nism": "131111730001230049",
+    "nisn": "0085521851",
+    "nama": "Fuza Alfatunnisa",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 65,
+    "nism": "131111730001230064",
+    "nisn": "0088720124",
+    "nama": "Kaisya Dzakira",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 66,
+    "nism": "131111730001230073",
+    "nisn": "0087103263",
+    "nama": "Maulindah Putri Ayu",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 67,
+    "nism": "131111730001230074",
+    "nisn": "0086469912",
+    "nama": "Mela Syahira",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 68,
+    "nism": "131111730001230076",
+    "nisn": "0083711349",
+    "nama": "Miftahul Jannah",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 69,
+    "nism": "131111730001230110",
+    "nisn": "0085414261",
+    "nama": "Mutiara Safira",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 70,
+    "nism": "131111730001230114",
+    "nisn": "0085766457",
+    "nama": "Najla Mazaya",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 71,
+    "nism": "131111730001230123",
+    "nisn": "0086233761",
+    "nama": "Nasyira Adzkiya",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 72,
+    "nism": "131111730001230125",
+    "nisn": "0086328959",
+    "nama": "Nayla Syakira",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 73,
+    "nism": "131111730001230127",
+    "nisn": "0087791268",
+    "nama": "Nisa Isma Ramadhani",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 74,
+    "nism": "131111730001230129",
+    "nisn": "0085358706",
+    "nama": "Nurul Alya Alfasya",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 75,
+    "nism": "131111730001230136",
+    "nisn": "0082634374",
+    "nama": "Pocut Masna Amartana",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 76,
+    "nism": "131111730001230138",
+    "nisn": "0081862451",
+    "nama": "Putri Balqis Al Khansa",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 77,
+    "nism": "131111730001230144",
+    "nisn": "0085406464",
+    "nama": "Rahil Maghfirah",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 78,
+    "nism": "131111730001230156",
+    "nisn": "0085039476",
+    "nama": "Rihadatul Aisy",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 79,
+    "nism": "131111730001230157",
+    "nisn": "0088321637",
+    "nama": "Rizka Aliya Nadila",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 80,
+    "nism": "131111730001230158",
+    "nisn": "0075657658",
+    "nama": "Rizka Ulfa",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 81,
+    "nism": "131111730001230159",
+    "nisn": "0074767235",
+    "nama": "Rizkia Amanda",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 82,
+    "nism": "131111730001230162",
+    "nisn": "0073741472",
+    "nama": "Saila Rizkia",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 83,
+    "nism": "131111730001230169",
+    "nisn": "0089256671",
+    "nama": "Shanika Zahia Rayya",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 84,
+    "nism": "131111730001230237",
+    "nisn": "0070030003",
+    "nama": "Siti Najwa Chalila",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 85,
+    "nism": "131111730001230184",
+    "nisn": "0085221697",
+    "nama": "Syifa AL Maghfirah",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 86,
+    "nism": "131111730001230199",
+    "nisn": "0088449639",
+    "nama": "Zuhara Syakira",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 87,
+    "nism": "131111730001240248",
+    "nisn": "0087989815",
+    "nama": "Faiza Riana",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 88,
+    "nism": "131111730001240261",
+    "nisn": 2086476411,
+    "nama": "Cut Annisa Urwatul",
+    "jk": "P",
+    "kelas": "XII-3",
+    "status": "LULUS"
+    },
+    {
+    "no": 89,
+    "nism": "131111730001230007",
+    "nisn": "0089770892",
+    "nama": "Afifa Syahira",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 90,
+    "nism": "131111730001230015",
+    "nisn": "0085434656",
+    "nama": "Aliva Nazhira",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 91,
+    "nism": "131111730001230027",
+    "nisn": "0086377030",
+    "nama": "Cut Syifa Unnisa",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 92,
+    "nism": "131111730001230217",
+    "nisn": "0084038446",
+    "nama": "Cut Ulvia Nabila",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 93,
+    "nism": "131111730001230035",
+    "nisn": 3089023906,
+    "nama": "Fahiya Tsabita Aqila",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 94,
+    "nism": "131111730001230046",
+    "nisn": "0086770914",
+    "nama": "Fiha Ainun Zariyah",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 95,
+    "nism": "131111730001230054",
+    "nisn": "0081472965",
+    "nama": "Haura Aqil Mahira",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 96,
+    "nism": "131111730001230055",
+    "nisn": "0087824589",
+    "nama": "Haura Shabrina",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 97,
+    "nism": "131111730001230058",
+    "nisn": "0087293504",
+    "nama": "Intan Febriani",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 98,
+    "nism": "131111730001230059",
+    "nisn": "0088341735",
+    "nama": "Intan Naysila",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 99,
+    "nism": "131111730001230069",
+    "nisn": "0075699288",
+    "nama": "Luthviya",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 100,
+    "nism": "131111730001230205",
+    "nisn": "0079577068",
+    "nama": "Marisa Oktavia Marpaung",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 101,
+    "nism": "131111730001230208",
+    "nisn": "0081113566",
+    "nama": "Nada Aurellya",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 102,
+    "nism": "131111730001230117",
+    "nisn": "0083165106",
+    "nama": "Najwa Karami",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 103,
+    "nism": "131111730001230132",
+    "nisn": "0089194628",
+    "nama": "Nurul Rahmah Fariza",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 104,
+    "nism": "131111730001230134",
+    "nisn": "0083622952",
+    "nama": "Octavia Fitriani",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 105,
+    "nism": "131111730001230141",
+    "nisn": 3082310730,
+    "nama": "Putroe Nazira",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 106,
+    "nism": "131111730001230145",
+    "nisn": "0078818362",
+    "nama": "Raisa Syakira Putri",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 107,
+    "nism": "131111730001230175",
+    "nisn": "0086346449",
+    "nama": "Sity Maimunah",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 108,
+    "nism": "131111730001230176",
+    "nisn": "0083600978",
+    "nama": "Suci Ramadhani",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 109,
+    "nism": "131111730001230180",
+    "nisn": "0088756623",
+    "nama": "Syakira Alisya Balqis",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 110,
+    "nism": "131111730001230237",
+    "nisn": "0078626832",
+    "nama": "Vaisa Faradhiba Wijaya",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 111,
+    "nism": "131111730001230193",
+    "nisn": "0081135248",
+    "nama": "Zafirah Amalia",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 112,
+    "nism": "131111730001240241",
+    "nisn": "0081688463",
+    "nama": "Zafira Azkia",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 113,
+    "nism": "131111730001240244",
+    "nisn": "0082932977",
+    "nama": "Khairatun Hisan",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 114,
+    "nism": "131111730001240246",
+    "nisn": "0087680721",
+    "nama": "Saskya Humaira",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 115,
+    "nism": "131111730001240252",
+    "nisn": "0073129940",
+    "nama": "Cut Fairuzia Putri Bahri",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 116,
+    "nism": "131111730001240253",
+    "nisn": "0081766330",
+    "nama": "Aulia Dahely",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 117,
+    "nism": "131111730001240263",
+    "nisn": "0082140472",
+    "nama": "Nurul Syifa Azzahra",
+    "jk": "P",
+    "kelas": "XII-4",
+    "status": "LULUS"
+    },
+    {
+    "no": 118,
+    "nism": "131111730001230202",
+    "nisn": "0082340177",
+    "nama": "Alfi Rahmatin",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 119,
+    "nism": "131111730001230024",
+    "nisn": "0087732626",
+    "nama": "Cut Izzia",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 120,
+    "nism": "131111730001230028",
+    "nisn": "0082258745",
+    "nama": "Cut Zita Azzahra",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 121,
+    "nism": "131111730001230030",
+    "nisn": "0089643692",
+    "nama": "Dina Mastura",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 122,
+    "nism": "131111730001230033",
+    "nisn": "0085014631",
+    "nama": "Dinda Malika Ramadhani",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 123,
+    "nism": "131111730001230042",
+    "nisn": "0086908184",
+    "nama": "Fathya Noura",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 124,
+    "nism": "131111730001230044",
+    "nisn": "0081026295",
+    "nama": "Fatimah Azzahra Hasra",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 125,
+    "nism": "131111730001230057",
+    "nisn": 3084586837,
+    "nama": "Ika Ramadani",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 126,
+    "nism": "131111730001230061",
+    "nisn": "0081050568",
+    "nama": "Izza Muzaiyana",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 127,
+    "nism": "131111730001230066",
+    "nisn": "0079921251",
+    "nama": "Khaira Nabila",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 128,
+    "nism": "131111730001230119",
+    "nisn": "0072258707",
+    "nama": "Najwa Rasqina Hafiz",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 129,
+    "nism": "131111730001230120",
+    "nisn": "0086594763",
+    "nama": "Najwa Safhira",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 130,
+    "nism": "131111730001230121",
+    "nisn": "0085123840",
+    "nama": "Najwa Salsabila",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 131,
+    "nism": "131111730001230122",
+    "nisn": "0088419919",
+    "nama": "Nasyiatul Amalia",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 132,
+    "nism": "131111730001230230",
+    "nisn": "0087521165",
+    "nama": "Naula Syafika",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 133,
+    "nism": "131111730001230128",
+    "nisn": "0087113546",
+    "nama": "Nisaul Husna",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 134,
+    "nism": "131111730001230151",
+    "nisn": "0072536264",
+    "nama": "Rani Wijayanti",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 135,
+    "nism": "131111730001230160",
+    "nisn": "008785028",
+    "nama": "Rozatul Jannah",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 136,
+    "nism": "131111730001230228",
+    "nisn": "0084103269",
+    "nama": "Safira Azzahra",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 137,
+    "nism": "131111730001230174",
+    "nisn": "0077715167",
+    "nama": "Siti Adila Mawardah",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 138,
+    "nism": "131111730001230171",
+    "nisn": "0081620434",
+    "nama": "Siti Iklima Zuhra",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 139,
+    "nism": "131111730001230172",
+    "nisn": "0081249429",
+    "nama": "Siti Rizqina Assyifaa",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 140,
+    "nism": "131111730001230188",
+    "nisn": "0081881881",
+    "nama": "Tri Amirah Althafunnisa Azma",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 141,
+    "nism": "131111730001230191",
+    "nisn": "0083326149",
+    "nama": "Wulida Sabriya",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 142,
+    "nism": "131111730001230192",
+    "nisn": "0083800706",
+    "nama": "Yana Mahfuzah",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 143,
+    "nism": "131111730001230195",
+    "nisn": "0081976631",
+    "nama": "Zazkia Ramadhani",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 144,
+    "nism": "131111730001230201",
+    "nisn": "0073544728",
+    "nama": "Zulkhulaifa Rahmi",
+    "jk": "P",
+    "kelas": "XII-5",
+    "status": "LULUS"
+    },
+    {
+    "no": 145,
+    "nism": "131111730001230014",
+    "nisn": "0076215825",
+    "nama": "Alfaya Maghfirah",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 146,
+    "nism": "131111730001230019",
+    "nisn": "0089594268",
+    "nama": "As Syifatul Aulia",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 147,
+    "nism": "131111730001230022",
+    "nisn": "0086840904",
+    "nama": "Az Zuhra",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 148,
+    "nism": "131111730001230029",
+    "nisn": "0089605020",
+    "nama": "Dara Nazila",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 149,
+    "nism": "131111730001230032",
+    "nisn": "0072859516",
+    "nama": "Dina Rahmiati",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 150,
+    "nism": "131111730001230041",
+    "nisn": "0085128583",
+    "nama": "Farah Nadya",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 151,
+    "nism": "131111730001230052",
+    "nisn": "0071632261",
+    "nama": "Haiyul Zahra",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 152,
+    "nism": "131111730001230056",
+    "nisn": "0081968868",
+    "nama": "Iffatul Imanika",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 153,
+    "nism": "131111730001230062",
+    "nisn": "0084996711",
+    "nama": "Izzati Ulya",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 154,
+    "nism": "131111730001230063",
+    "nisn": "0088621979",
+    "nama": "Jauza Aysyura",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 155,
+    "nism": "131111730001230065",
+    "nisn": "0088764213",
+    "nama": "Kaysha Assyifa Harahap",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 156,
+    "nism": "131111730001230071",
+    "nisn": "0079267622",
+    "nama": "Masyitah",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 157,
+    "nism": "131111730001230075",
+    "nisn": "0088356908",
+    "nama": "Meutia Hayatun Nufus",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 158,
+    "nism": "131111730001230118",
+    "nisn": 3093260250,
+    "nama": "Najwa Nasyifa",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 159,
+    "nism": "131111730001230124",
+    "nisn": "0078089308",
+    "nama": "Naura Addini",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 160,
+    "nism": "131111730001230131",
+    "nisn": "0086483346",
+    "nama": "Nurul Putroe Al Ghina",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 161,
+    "nism": "131111730001230143",
+    "nisn": "0081338436",
+    "nama": "Rafiqa Zulfira",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 162,
+    "nism": "131111730001230149",
+    "nisn": "0086576100",
+    "nama": "Raisya Putri",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 163,
+    "nism": "131111730001230173",
+    "nisn": "0075478614",
+    "nama": "Siti Sahara",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 164,
+    "nism": "131111730001230183",
+    "nisn": "0076462590",
+    "nama": "Syawaliza Ananda",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 165,
+    "nism": "131111730001230186",
+    "nisn": "0089131366",
+    "nama": "Tazkia Amalia",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 166,
+    "nism": "131111730001230196",
+    "nisn": "0074442761",
+    "nama": "Zihni Ghaisani",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 167,
+    "nism": "131111730001240243",
+    "nisn": "0087636408",
+    "nama": "Sayla Khairani",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 168,
+    "nism": "131111730001240249",
+    "nisn": "0085528434",
+    "nama": "Atha Nadhirah Kaysan",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 169,
+    "nism": "131111730001240254",
+    "nisn": "0073654515",
+    "nama": "Anisah Fatiyyah",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 170,
+    "nism": "131111730001240265",
+    "nisn": "0085805060",
+    "nama": "Farah Maulina",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 171,
+    "nism": "131111730001240267",
+    "nisn": 3085811560,
+    "nama": "Geubi Aulia Meutia",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 172,
+    "nism": "131111730001240268",
+    "nisn": "0089713378",
+    "nama": "Nurul Akmal",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 173,
+    "nism": "131111730001240275",
+    "nisn": "0085586814",
+    "nama": "Meutya Zahara",
+    "jk": "P",
+    "kelas": "XII-6",
+    "status": "LULUS"
+    },
+    {
+    "no": 174,
+    "nism": "131111730001230001",
+    "nisn": "0087605839",
+    "nama": "Abdul Haris Aulia Nasution",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 175,
+    "nism": "131111730001230003",
+    "nisn": "0086630699",
+    "nama": "Achmad Chairi Muharram",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 176,
+    "nism": "131111730001230006",
+    "nisn": "0072254636",
+    "nama": "Afdhalul Zikral",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 177,
+    "nism": "131111730001230008",
+    "nisn": "0083175347",
+    "nama": "Agra Prana Nuhri",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 178,
+    "nism": "131111730001230009",
+    "nisn": "0079895116",
+    "nama": "Ahmad Fadhallah Hairi",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 179,
+    "nism": "131111730001230023",
+    "nisn": "0087162558",
+    "nama": "Bakil Tsaqif",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 180,
+    "nism": "131111730001230229",
+    "nisn": "0084465729",
+    "nama": "Dzaki Nail Huda",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 181,
+    "nism": "131111730001230045",
+    "nisn": "0086436903",
+    "nama": "Fayyad Ghafiqi",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 182,
+    "nism": "131111730001230048",
+    "nisn": "0084943018",
+    "nama": "Frihandy Syahputra",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 183,
+    "nism": "131111730001230053",
+    "nisn": "0081458432",
+    "nama": "Haris Maulana",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 184,
+    "nism": "131111730001230077",
+    "nisn": "0086481269",
+    "nama": "Muhammad Akbar",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 185,
+    "nism": "131111730001230078",
+    "nisn": "0084335982",
+    "nama": "Muhammad Al Farel",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 186,
+    "nism": "131111730001230080",
+    "nisn": "3160963174",
+    "nama": "Muhammad Daffa",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 187,
+    "nism": "131111730001230082",
+    "nisn": "0083345391",
+    "nama": "Muhammad Fahri Maulana",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 188,
+    "nism": "131111730001230083",
+    "nisn": "0078299372",
+    "nama": "Muhammad Fahriel Mufal",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 189,
+    "nism": "131111730001230081",
+    "nisn": "0089515225",
+    "nama": "Muhammad Fathan Ramadhan",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 190,
+    "nism": "131111730001230084",
+    "nisn": "0083975261",
+    "nama": "Muhammad Gathan Thufail",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 191,
+    "nism": "131111730001230089",
+    "nisn": "0081096876",
+    "nama": "Muhammad Ilal hauzi",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 192,
+    "nism": "131111730001230095",
+    "nisn": "0085578288",
+    "nama": "Muhammad Nabil Hidayat",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 193,
+    "nism": "131111730001230096",
+    "nisn": "0072419276",
+    "nama": "Muhammad Pobie",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 194,
+    "nism": "131111730001230098",
+    "nisn": "0064601152",
+    "nama": "Muhammad Rafli Kausar",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 195,
+    "nism": "131111730001230101",
+    "nisn": "0087950441",
+    "nama": "Muhammad Rayyan Imanda",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 196,
+    "nism": "131111730001230104",
+    "nisn": "0077794307",
+    "nama": "Muhammad Ridha Fahleviezar",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 197,
+    "nism": "131111730001230204",
+    "nisn": "0077254066",
+    "nama": "Muhammad Syawalul Hady",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 198,
+    "nism": "131111730001230135",
+    "nisn": "0084925871",
+    "nama": "Panca Nur Pratama",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 199,
+    "nism": "131111730001230152",
+    "nisn": "0089952446",
+    "nama": "Rehan Maulana",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 200,
+    "nism": "131111730001230163",
+    "nisn": "0082032220",
+    "nama": "Sarul Raffy",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 201,
+    "nism": "131111730001230164",
+    "nisn": "0085656905",
+    "nama": "Sarul Rizqy",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 202,
+    "nism": "131111730001230165",
+    "nisn": "0073080940",
+    "nama": "Sayed Aqil Ali",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 203,
+    "nism": "131111730001230166",
+    "nisn": "0088591789",
+    "nama": "Sayed Sultan Al-Maghri",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 204,
+    "nism": "131111730001230167",
+    "nisn": "0077292441",
+    "nama": "Shadiqul Fata",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 205,
+    "nism": "131111730001230177",
+    "nisn": "0082696432",
+    "nama": "Sulthan Azis Zaffari",
+    "jk": "L",
+    "kelas": "XII-7",
+    "status": "LULUS"
+    },
+    {
+    "no": 206,
+    "nism": "131111730001230005",
+    "nisn": 3081760945,
+    "nama": "Afdhaludz Dzikri",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 207,
+    "nism": "131111730001230231",
+    "nisn": "0083629071",
+    "nama": "Amru Mufid",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 208,
+    "nism": "131111730001230016",
+    "nisn": "0084974180",
+    "nama": "Anas Irvan Samudra",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 209,
+    "nism": "131111730001230036",
+    "nisn": "0081403685",
+    "nama": "Fais Ramadhan",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 210,
+    "nism": "131111730001230039",
+    "nisn": "0085575888",
+    "nama": "Fajriel Al-Huda",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 211,
+    "nism": "131111730001230060",
+    "nisn": "0081594618",
+    "nama": "Istiqlal Ahmad",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 212,
+    "nism": "131111730001230085",
+    "nisn": "0087383795",
+    "nama": "Muhammad Gelegar Frianto",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 213,
+    "nism": "131111730001230086",
+    "nisn": "0082185714",
+    "nama": "Muhammad Gevan Alfatan",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 214,
+    "nism": "131111730001230087",
+    "nisn": "0079819299",
+    "nama": "Muhammad Ikbal",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 215,
+    "nism": "131111730001230088",
+    "nisn": "0088211215",
+    "nama": "Muhammad Ikhsan",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 216,
+    "nism": "131111730001230090",
+    "nisn": "0083210809",
+    "nama": "Muhammad Irsal Hadi",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 217,
+    "nism": "131111730001230211",
+    "nisn": "0078041260",
+    "nama": "Muhammad Kaisar",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 218,
+    "nism": "131111730001230092",
+    "nisn": "0084304938",
+    "nama": "Muhammad Luthfi",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 219,
+    "nism": "131111730001230102",
+    "nisn": "0077327255",
+    "nama": "Muhammad Rendi Andrizal",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 220,
+    "nism": "131111730001230206",
+    "nisn": "0087914354",
+    "nama": "Muhammad Rizky",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 221,
+    "nism": "131111730001230106",
+    "nisn": "0084327459",
+    "nama": "Muhammad Roja Firdaus",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 222,
+    "nism": "131111730001230107",
+    "nisn": "0085815868",
+    "nama": "Muhammad Suhairi",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 223,
+    "nism": "131111730001230207",
+    "nisn": "0081519317",
+    "nama": "Muhammad Syawal",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 224,
+    "nism": "131111730001230109",
+    "nisn": "0083130229",
+    "nama": "Muksalmina",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 225,
+    "nism": "131111730001230153",
+    "nisn": "0082787296",
+    "nama": "Ridho Aulia",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 226,
+    "nism": "131111730001230155",
+    "nisn": "0082248104",
+    "nama": "Riffi Syahrial Pratama",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 227,
+    "nism": "131111730001230178",
+    "nisn": "0071920204",
+    "nama": "Syah Fahlevi",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 228,
+    "nism": "131111730001230209",
+    "nisn": "0077108771",
+    "nama": "Teuku Muhammad Waly Saidy",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 229,
+    "nism": "131111730001230198",
+    "nisn": "0089563020",
+    "nama": "Zubaral Hadid",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    },
+    {
+    "no": 230,
+    "nism": "131111730001240277",
+    "nisn": "0079176977",
+    "nama": "Sayed Ardillah",
+    "jk": "L",
+    "kelas": "XII-8",
+    "status": "LULUS"
+    }
 ]
