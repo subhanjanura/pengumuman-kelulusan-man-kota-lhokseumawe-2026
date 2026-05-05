@@ -1,28 +1,25 @@
-// Variabel untuk menampung data
+// Variabel penampung data
 let dataKelulusan = [];
 
+// Memuat data.json saat halaman pertama kali dibuka
 document.addEventListener("DOMContentLoaded", function () {
-    Papa.parse("data.csv", {
-        download: true,
-        header: true,
-        complete: function (results) {
-            dataKelulusan = results.data;
-            console.log("Data siswa berhasil dimuat:", dataKelulusan.length);
-        },
-        error: function (err) {
-            console.error("Gagal membaca file CSV:", err);
-        }
-    });
+    fetch('data.json')
+        .then(response => response.json())
+        .then(data => {
+            dataKelulusan = data;
+            console.log("Data siswa berhasil dimuat, jumlah:", dataKelulusan.length);
+        })
+        .catch(error => console.error("Gagal memuat file data.json:", error));
 });
 
 function cekKelulusan() {
     const input = document.getElementById('nisnInput').value.trim().toLowerCase();
     
-    // Ambil elemen tombol dan spinner
+    // Elemen tombol dan loading
     const searchIcon = document.getElementById('searchIcon');
     const searchText = document.getElementById('searchText');
     const loadingSpinner = document.getElementById('loadingSpinner');
-    const button = document.querySelector('button'); // Tombol Periksa
+    const button = document.querySelector('button');
 
     const hasilDiv = document.getElementById('hasil');
     const iconStatus = document.getElementById('iconStatus');
@@ -34,40 +31,37 @@ function cekKelulusan() {
     const pesanKelulusan = document.getElementById('pesanKelulusan');
 
     if (input === "") {
-        alert("Silakan masukkan NISN atau NIS terlebih dahulu.");
+        alert("Silakan masukkan NISN atau NISM terlebih dahulu.");
         return;
     }
 
     if (dataKelulusan.length === 0) {
-        alert("Data siswa sedang dimuat. Silakan tunggu beberapa detik dan coba lagi.");
+        alert("Data siswa sedang dimuat dari server. Silakan tunggu beberapa detik dan coba lagi.");
         return;
     }
 
-    // --- EFEK LOADING DIMULAI ---
-    // Sembunyikan ikon & teks, lalu tampilkan animasi loading dan nonaktifkan tombol
-    searchIcon.classList.add('hidden');
-    searchText.classList.add('hidden');
-    loadingSpinner.classList.remove('hidden');
+    // Aktifkan Efek Loading (3 Detik)
+    searchIcon.classList.add('d-none');
+    searchText.classList.add('d-none');
+    loadingSpinner.classList.remove('d-none');
     button.disabled = true;
-    button.classList.add('opacity-70', 'cursor-not-allowed');
+    button.classList.add('opacity-75');
 
-    // Tunda eksekusi selama 3000 ms (3 detik)
     setTimeout(() => {
-        // --- EFEK LOADING SELESAI ---
-        // Kembalikan tombol seperti semula
-        searchIcon.classList.remove('hidden');
-        searchText.classList.remove('hidden');
-        loadingSpinner.classList.add('hidden');
+        // Matikan Efek Loading
+        searchIcon.classList.remove('d-none');
+        searchText.classList.remove('d-none');
+        loadingSpinner.classList.add('d-none');
         button.disabled = false;
-        button.classList.remove('opacity-70', 'cursor-not-allowed');
+        button.classList.remove('opacity-75');
 
-        // Lakukan pencarian data siswa
+        // Cari siswa
         const siswa = dataKelulusan.find(s => 
             (s.nisn && s.nisn.toString().toLowerCase() === input) || 
             (s.nism && s.nism.toString().toLowerCase() === input)
         );
 
-        hasilDiv.classList.remove('hidden');
+        hasilDiv.classList.remove('d-none');
 
         if (siswa) {
             namaSiswa.textContent = siswa.nama;
@@ -75,35 +69,37 @@ function cekKelulusan() {
             infoJurusan.textContent = `Kelas: ${siswa.kelas}`;
 
             if (siswa.status.toUpperCase() === "LULUS") {
-                hasilDiv.className = "p-8 rounded-3xl shadow-sm text-center bg-emerald-50/50 border border-emerald-100";
-                iconStatus.className = "mx-auto w-16 h-16 flex items-center justify-center rounded-2xl mb-5 text-2xl shadow-sm bg-emerald-600 text-white";
+                hasilDiv.className = "p-4 rounded-4 shadow-sm text-center border border-success bg-success bg-opacity-10 mb-4";
+                iconStatus.className = "mx-auto w-16 h-16 d-flex align-items-center justify-center rounded-circle mb-3 bg-success fs-4 shadow-sm text-white";
                 iconStatus.innerHTML = '<i class="fa-solid fa-graduation-cap"></i>';
                 
+                badgeStatus.className = "badge bg-success text-white px-4 py-2 fs-5 shadow-sm";
                 statusKelulusan.textContent = "LULUS";
-                badgeStatus.className = "px-8 py-3.5 rounded-2xl font-extrabold text-xl tracking-wider text-white bg-emerald-600 shadow-emerald-600/15";
-                pesanKelulusan.className = "mt-8 p-4 rounded-2xl text-xs leading-relaxed bg-emerald-50 border border-emerald-200 text-emerald-800 block";
+                
+                pesanKelulusan.className = "mt-4 p-3 rounded-3 fs-8 d-block bg-success bg-opacity-25 text-success border border-success";
                 pesanKelulusan.textContent = "Selamat kepada peserta didik yang dinyatakan lulus. Harap mengunduh Surat Keterangan Lulus (SKL) resmi melalui tata usaha madrasah.";
             } else {
-                hasilDiv.className = "p-8 rounded-3xl shadow-sm text-center bg-red-50/50 border border-red-100";
-                iconStatus.className = "mx-auto w-16 h-16 flex items-center justify-center rounded-2xl mb-5 text-2xl shadow-sm bg-red-600 text-white";
+                hasilDiv.className = "p-4 rounded-4 shadow-sm text-center border border-danger bg-danger bg-opacity-10 mb-4";
+                iconStatus.className = "mx-auto w-16 h-16 d-flex align-items-center justify-center rounded-circle mb-3 bg-danger fs-4 shadow-sm text-white";
                 iconStatus.innerHTML = '<i class="fa-solid fa-triangle-exclamation"></i>';
                 
+                badgeStatus.className = "badge bg-danger text-white px-4 py-2 fs-5 shadow-sm";
                 statusKelulusan.textContent = "BELUM LULUS";
-                badgeStatus.className = "px-8 py-3.5 rounded-2xl font-extrabold text-xl tracking-wider text-white bg-red-600 shadow-red-600/15";
-                pesanKelulusan.className = "mt-8 p-4 rounded-2xl text-xs leading-relaxed bg-red-50 border border-red-200 text-red-800 block";
+                
+                pesanKelulusan.className = "mt-4 p-3 rounded-3 fs-8 d-block bg-danger bg-opacity-25 text-danger border border-danger";
                 pesanKelulusan.textContent = "Silakan berkonsultasi dengan pihak sekolah terkait status kelulusan Anda.";
             }
         } else {
-            hasilDiv.className = "p-8 rounded-3xl shadow-sm text-center bg-amber-50/50 border border-amber-100";
-            iconStatus.className = "mx-auto w-16 h-16 flex items-center justify-center rounded-2xl mb-5 text-2xl shadow-sm bg-amber-500 text-white";
+            hasilDiv.className = "p-4 rounded-4 shadow-sm text-center border border-warning bg-warning bg-opacity-10 mb-4";
+            iconStatus.className = "mx-auto w-16 h-16 d-flex align-items-center justify-center rounded-circle mb-3 bg-warning fs-4 shadow-sm text-white";
             iconStatus.innerHTML = '<i class="fa-solid fa-circle-question"></i>';
             
             namaSiswa.textContent = "Data Tidak Ditemukan.";
             infoSiswa.textContent = "Periksa kembali NISN/NISM yang Anda masukkan dan coba lagi.";
             infoJurusan.textContent = "";
+            badgeStatus.className = "badge bg-warning text-dark px-4 py-2 fs-5 shadow-sm";
             statusKelulusan.textContent = "TIDAK VALID";
-            badgeStatus.className = "px-8 py-3.5 rounded-2xl font-extrabold text-xl tracking-wider text-white bg-amber-500 shadow-amber-500/15";
-            pesanKelulusan.className = "hidden";
+            pesanKelulusan.className = "d-none";
         }
-    }, 3000); // Penundaan selama 3 detik (3000 ms)
+    }, 3000); // Penundaan (delay) 3 detik
 }

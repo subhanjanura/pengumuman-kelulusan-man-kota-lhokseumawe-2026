@@ -1,5 +1,6 @@
 [
-    { "nisn": "10012025", "nama": "Ahmad Zaki", "jurusan": "IPA", "status": "LULUS" },
-    { "nisn": "10012026", "nama": "Siti Rahma", "jurusan": "IPS", "status": "LULUS" },
-    { "nisn": "10012027", "nama": "Budi Pratama", "jurusan": "Keagamaan", "status": "BELUM LULUS" }
+    {"nism": "121111710100250001","nisn": "0081234567","nama": "Arief Munandar","jk": "L","kelas": "XII-1","status": "LULUS"},
+    {"nism": "121111710100250002","nisn": "0081234568","nama": "Cut Putri Aulia","jk": "P","kelas": "XII-2","status": "LULUS"},
+    {"nism": "121111710100250003","nisn": "0081234569","nama": "Muhammad Rizki","jk": "L","kelas": "XII-3","status": "BELUM LULUS"},
+    {"nism": "121111710100250004","nisn": "0081234570","nama": "Siti Humaira","jk": "P","kelas": "XII-4","status": "LULUS"}
 ]
